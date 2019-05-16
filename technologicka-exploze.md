@@ -8,10 +8,10 @@ Anglicky zvané "emerging technologies", jsou v blízké době přicházející 
 
 ### Zemědělství
 
-- Uzavřené ekologické systémy (2020)
 - Svislé farmy (2015)
-- Kultivované maso (2025)
+- Uzavřené ekologické systémy (2020)
 - Zemědělský robot (2022)
+- Kultivované maso (2025)
 
 ### Letectví
 
@@ -24,4 +24,16 @@ Anglicky zvané "emerging technologies", jsou v blízké době přicházející 
 - Bambus
 
 ### Architektura
-- Arkologie (2025)
+
+- Arkologie (2030)
+
+### Energetika
+
+- Jaderné reaktory založené na roztavených solích (2025)
+- Thoriový palivový cyklus (2025)
+- Umělá biologická fotosyntéza (2030)
+- Fůzní energie (2050)
+
+### Telekomunikace
+
+- Sítě 5. generace - 5G (2020)
