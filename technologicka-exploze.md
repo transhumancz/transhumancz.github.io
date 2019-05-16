@@ -1,6 +1,6 @@
 # Technologická exploze
 
-Souběh rozvoje tolika pokročilých technologií současně, že dohromady způsobí exponenciální růst technologické úrovně civilizace - technologickou explozi.
+Souběh vynálezu a uvedení do praxe tolika pokročilých technologií současně, že dohromady způsobí exponenciální růst technologické úrovně civilizace - technologickou explozi.
 
 ## Přicházející technologie
 
