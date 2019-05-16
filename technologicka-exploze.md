@@ -8,20 +8,20 @@ Anglicky zvané "emerging technologies", jsou v blízké době přicházející 
 
 ### Zemědělství
 
-- Uzavřené ekologické systémy
-- Svislé farmy
-- Kultivované maso
-- Zemědělský robot
+- Uzavřené ekologické systémy (2020)
+- Svislé farmy (2015)
+- Kultivované maso (2025)
+- Zemědělský robot (2022)
 
 ### Letectví
 
-- Přímé ovládání letounu mozkem
+- Přímé ovládání letounu mozkem (2035)
 - Iontový pohon
 
 ### Stavební materiály
 
-- CLT (Cross-Laminated Timber)
+- CLT - Cross-Laminated Timber (2020)
 - Bambus
 
 ### Architektura
-- Arkologie
+- Arkologie (2025)
